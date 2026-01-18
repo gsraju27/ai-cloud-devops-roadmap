@@ -263,7 +263,7 @@ CMD ["node", "dist/server.js"]
 Theory only gets you so far. **Real learning happens when you deploy.**
 
 <p align="center">
-  <a href="https://deployu.ai/star-discount?ref=github">
+  <a href="https://deployu.ai?ref=github">
     <img src="assets/deployu-offer.svg" alt="Get 20% off DeployU" width="600">
   </a>
 </p>
@@ -271,7 +271,7 @@ Theory only gets you so far. **Real learning happens when you deploy.**
 ### How to Claim Your Discount
 
 1. **Star this repository** (click the star button above)
-2. **Visit [deployu.ai/star-discount](https://deployu.ai/star-discount?ref=github)**
+2. **Visit [deployu.ai](https://deployu.ai?ref=github)**
 3. **Connect your GitHub** to verify
 4. **Get 20% off** any DeployU subscription
 
@@ -317,40 +317,6 @@ Month 6:   Specialization (AI/ML, Security, SRE)
 
 ---
 
-## Repository Structure
-
-```
-ai-cloud-devops-roadmap/
-├── README.md
-├── interview-questions/          # ✅ 320+ questions
-│   ├── cloud/                    #    AWS, Azure, GCP
-│   ├── devops/                   #    Docker, K8s, Terraform, CI/CD
-│   ├── ai-ml/                    #    TensorFlow, PyTorch, Hugging Face
-│   ├── programming/              #    Python, JS, Java, Go, React, etc.
-│   └── databases/                #    PostgreSQL, MongoDB, Redis
-├── companies/                    # ✅ Company-specific guides
-│   ├── product-based/            #    Google, Amazon, Microsoft, etc.
-│   └── service-based/            #    TCS, Infosys, Wipro, etc.
-├── roadmaps/                     # ✅ 4 career paths
-│   ├── devops-engineer.md
-│   ├── cloud-engineer.md
-│   ├── ai-ml-engineer.md
-│   └── fullstack-developer.md
-├── cheatsheets/                  # 🔜 Coming soon
-├── projects/                     # 🔜 Coming soon
-│   ├── beginner/
-│   ├── intermediate/
-│   └── advanced/
-├── ai-trends/                    # 🔜 Coming soon
-│   └── weekly-updates/
-├── career/                       # 🔜 Coming soon
-│   └── resume-templates/
-├── resources/                    # ✅ Books, communities
-└── assets/
-```
-
----
-
 ## Contributing
 
 We welcome contributions! Here's how you can help:
@@ -378,9 +344,8 @@ Have ideas? Open an issue to discuss.
   <img src="https://avatars.githubusercontent.com/gsraju27" width="100" style="border-radius: 50%">
 </p>
 
-**Sivaram**
 
-Building [DeployU](https://deployu.ai) - hands-on cloud learning platform where you deploy real projects on real AWS/Azure/GCP infrastructure.
+Building [DeployU](https://deployu.ai) - 100% hands-on AI cloud learning platform where you deploy real projects on real AWS/Azure/GCP infrastructure.
 
 - [Twitter/X](https://x.com/deployuai)
 - [Website](https://deployu.ai)
@@ -400,11 +365,7 @@ You're free to:
 
 ## Star History
 
-<p align="center">
-  <a href="https://star-history.com/#gsraju27/ai-cloud-devops-roadmap&Date">
-    <img src="https://api.star-history.com/svg?repos=gsraju27/ai-cloud-devops-roadmap&type=Date" alt="Star History Chart">
-  </a>
-</p>
+[![Star History Chart](https://api.star-history.com/svg?repos=gsraju27/ai-cloud-devops-roadmap&type=Date)](https://star-history.com/#gsraju27/ai-cloud-devops-roadmap&Date)
 
 ---
 
