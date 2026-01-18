@@ -1,0 +1,93 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1280" height="640" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative grid pattern -->
+  <g opacity="0.05">
+    <line x1="0" y1="80" x2="1280" y2="80" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="160" x2="1280" y2="160" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="240" x2="1280" y2="240" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="320" x2="1280" y2="320" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="400" x2="1280" y2="400" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="480" x2="1280" y2="480" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="560" x2="1280" y2="560" stroke="white" stroke-width="1"/>
+    <line x1="160" y1="0" x2="160" y2="640" stroke="white" stroke-width="1"/>
+    <line x1="320" y1="0" x2="320" y2="640" stroke="white" stroke-width="1"/>
+    <line x1="480" y1="0" x2="480" y2="640" stroke="white" stroke-width="1"/>
+    <line x1="640" y1="0" x2="640" y2="640" stroke="white" stroke-width="1"/>
+    <line x1="800" y1="0" x2="800" y2="640" stroke="white" stroke-width="1"/>
+    <line x1="960" y1="0" x2="960" y2="640" stroke="white" stroke-width="1"/>
+    <line x1="1120" y1="0" x2="1120" y2="640" stroke="white" stroke-width="1"/>
+  </g>
+  
+  <!-- Decorative circles -->
+  <circle cx="100" cy="100" r="200" fill="#3b82f6" opacity="0.1"/>
+  <circle cx="1180" cy="540" r="250" fill="#8b5cf6" opacity="0.1"/>
+  
+  <!-- Main content -->
+  <g transform="translate(640, 200)">
+    <!-- Title -->
+    <text x="0" y="0" text-anchor="middle" fill="white" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="bold">
+      AI, Cloud &amp; DevOps
+    </text>
+    <text x="0" y="80" text-anchor="middle" fill="url(#accentGradient)" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="bold">
+      Roadmap 2026
+    </text>
+  </g>
+  
+  <!-- Stats -->
+  <g transform="translate(640, 380)">
+    <text x="0" y="0" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="32">
+      320+ Interview Questions  |  24 Technologies  |  4 Career Roadmaps
+    </text>
+  </g>
+  
+  <!-- Tagline -->
+  <g transform="translate(640, 480)">
+    <text x="0" y="0" text-anchor="middle" fill="#64748b" font-family="system-ui, -apple-system, sans-serif" font-size="24">
+      Stop memorizing definitions. Start solving real problems.
+    </text>
+  </g>
+  
+  <!-- Tech badges row -->
+  <g transform="translate(340, 540)">
+    <!-- Docker -->
+    <rect x="0" y="0" width="100" height="36" rx="6" fill="#2496ED"/>
+    <text x="50" y="24" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Docker</text>
+    
+    <!-- Kubernetes -->
+    <rect x="120" y="0" width="120" height="36" rx="6" fill="#326CE5"/>
+    <text x="180" y="24" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Kubernetes</text>
+    
+    <!-- AWS -->
+    <rect x="260" y="0" width="80" height="36" rx="6" fill="#FF9900"/>
+    <text x="300" y="24" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="14" font-weight="600">AWS</text>
+    
+    <!-- Terraform -->
+    <rect x="360" y="0" width="110" height="36" rx="6" fill="#7B42BC"/>
+    <text x="415" y="24" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Terraform</text>
+    
+    <!-- Python -->
+    <rect x="490" y="0" width="90" height="36" rx="6" fill="#3776AB"/>
+    <text x="535" y="24" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Python</text>
+  </g>
+  
+  <!-- DeployU branding -->
+  <g transform="translate(640, 600)">
+    <text x="0" y="0" text-anchor="middle" fill="#475569" font-family="system-ui, -apple-system, sans-serif" font-size="18">
+      by DeployU  •  deployu.ai
+    </text>
+  </g>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="AI, Cloud & DevOps Roadmap" width="100%">
+  <img src="assets/banner.svg" alt="AI, Cloud & DevOps Roadmap" width="100%">
 </p>
 
 <h1 align="center">AI, Cloud & DevOps Roadmap 2026</h1>
@@ -236,7 +236,7 @@ Theory only gets you so far. **Real learning happens when you deploy.**
 
 <p align="center">
   <a href="https://deployu.ai/star-discount?ref=github">
-    <img src="assets/deployu-offer.png" alt="Get 20% off DeployU" width="600">
+    <img src="assets/deployu-offer.svg" alt="Get 20% off DeployU" width="600">
   </a>
 </p>
 
@@ -336,7 +336,7 @@ ai-cloud-devops-roadmap/
 │   └── communities.md
 └── assets/
     ├── banner.png
-    └── deployu-offer.png
+    └── deployu-offer.svg
 ```
 
 ---
@@ -368,11 +368,10 @@ Have ideas? Open an issue to discuss.
   <img src="https://avatars.githubusercontent.com/gsraju27" width="100" style="border-radius: 50%">
 </p>
 
-**Sivaram Raju Gadiraju**
+**Sivaram**
 
 Building [DeployU](https://deployu.ai) - hands-on cloud learning platform where you deploy real projects on real AWS/Azure/GCP infrastructure.
 
-- [LinkedIn](https://linkedin.com/in/sivaramrajugadiraju)
 - [Twitter/X](https://x.com/deployuai)
 - [Website](https://deployu.ai)
 
