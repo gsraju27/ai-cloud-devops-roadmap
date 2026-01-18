@@ -396,12 +396,17 @@ Have ideas? Open an issue to discuss.
   <img src="https://avatars.githubusercontent.com/gsraju27" width="100" style="border-radius: 50%">
 </p>
 
-**Sivaram**
+**Sivaram Raju Gadiraju**
 
 Building [DeployU](https://deployu.ai) - hands-on cloud learning platform where you deploy real projects on real AWS/Azure/GCP infrastructure.
 
+- [LinkedIn](https://linkedin.com/in/sivaramrajugadiraju)
 - [Twitter/X](https://x.com/deployuai)
 - [Website](https://deployu.ai)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Made%20in-India-FF9933?style=flat-square&labelColor=138808" alt="Made in India" />
+</p>
 
 ---
 
